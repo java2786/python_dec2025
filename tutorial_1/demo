@@ -1,0 +1,6 @@
+name = "Arun"
+address = "Delhi"
+phone = "8989776"
+print("Name: ",name)
+print("Address:",address)
+print("Contact:",phone)
