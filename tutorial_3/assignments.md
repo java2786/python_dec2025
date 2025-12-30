@@ -1,5 +1,6 @@
 # Task 1
 - Write python code to print restaurant bill with menu.
+syntax - variable, print, condition, operators
 
 # Task 2
 - Electricity Bill Generate
