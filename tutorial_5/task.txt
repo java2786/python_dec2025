@@ -1,0 +1,3 @@
+Check if a number has exactly 3 digits.
+FizzBuzz Game – Leetcode Problem 412.
+Check if 3 sides form a right triangle using H² = B² + P².
