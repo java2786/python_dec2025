@@ -1,0 +1,10 @@
+find reverse of number
+count digits of number
+sum digits of number 
+
+def sumDigits(num):
+    code 
+    return sum 
+
+result = sumDigits(237)
+sumDigits(482726)

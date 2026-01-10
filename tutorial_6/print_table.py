@@ -1,4 +1,4 @@
-num = 6
+num = 2
 count = 1
 
 while count<=10:

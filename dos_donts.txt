@@ -1,0 +1,35 @@
+Array 
+    - is it covered ?
+
+syntax - variable, print, condition, operators
+
+
+loop X
+array X
+exception X
+
+
+dosa_price = 50
+idli_price = 35
+cd_price = 20
+
+
+a = float(input("Enter dosa quantity: ")) # 5
+b = int(input("Enter idly quantity: ")) # 5
+c = int(input("Enter cold drink quantity: ")) # 5
+
+
+Bill
+a,"X Rs",dosa_price," = Rs",a*dosa_price
+
+Doas; 2 X Rs 50 = Rs 100
+
+
+
+
+total bill
+
+
+space error -> naming convension
+vs code error 
+jupitor notebook 
