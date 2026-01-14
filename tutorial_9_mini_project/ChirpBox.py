@@ -1,8 +1,7 @@
 choice = None
 name = None 
 email = None 
-password = None 
-
+password = None  
 
 def signup():
     global name 
