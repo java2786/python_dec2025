@@ -5,7 +5,7 @@
 # employee -> name, salary, joindate
 # singer -> name, album
 
-movie = "suPErmAN"
+movie = "suPEr"
 
 print(f"Type: {type(movie)}") # str calss is category
 
@@ -29,14 +29,14 @@ print(f"Last char: {movie[len(movie)-1]}")
 print(f"First 3 chars: {movie[0:3]}") # SUP
 print(f"First 3 chars: {movie[:3]}") # SUP
 
-print(f"First 4 chars: {movie[1:4]}") # UPE
+print(f"First 3 chars and ignore first: {movie[1:3]}") # UPE
 
 print(f"---: {movie[1:]}") # UPER
 
 
 print(f"Upper - {movie.upper()}")
 print(f"Lower - {movie.lower()}")
-# print(f"Cap - {movie.capitalize()}")
+print(f"Cap - {movie.capitalize()}")
 
 
 # suPErmAN -> Superman
