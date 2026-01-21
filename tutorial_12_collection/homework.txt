@@ -1,0 +1,7 @@
+use for loop to print all values in set and dictionary
+
+restaurant bill -> store items in list
+    items = [
+        {"pizza": 150},
+        
+    ]
