@@ -16,7 +16,7 @@ print("========Welcome to Sohan's Restaurant========")
 print("==================Our menu===================")
 
 for i in range(len(items)):
-    print(f'{i+1}. {items[i]["name"]} - Rs {items[i]["price"]}/-')    
+    print(f'{i+1}. {items[i]["name"]} \t\t- Rs {items[i]["price"]}/-')    
     
 for i in range(len(items)):
     items[i]["quantity"] = int(input(f'{items[i]["name"]} Quantity: '))
